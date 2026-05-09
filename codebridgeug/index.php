@@ -1,3 +1,9 @@
+<?php
+echo "<h1>Git Deployment Successful</h1>";
+echo "<p>Website updated through GitHub deployment workflow.</p>";
+echo "<hr>";
+?>
+
 <?php require_once 'db.php'; ?>
 <!DOCTYPE html>
 <html>
